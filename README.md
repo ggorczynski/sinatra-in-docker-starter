@@ -7,7 +7,7 @@ do zbudowania obrazu z pliku Dockerfile uruchom:
 
 aby uruchomić kontener dockera:
 
-    docker run -p 3000:4567 grzegorzg/sinatra-in-docker:v1 .
+    docker run -p 3000:4567 grzegorzg/sinatra-in-docker:v1
 
 w przeglądarce:
 
